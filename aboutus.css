@@ -1,0 +1,41 @@
+.aboutus{
+    text-align: center;
+    background: url(flat-lay-toys-with-food-bowl-fur.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80%;
+    overflow: hidden;
+}
+
+.aboutus h3{
+    font-size: 2.5rem;
+}
+.aboutus p{
+    font-size: 1rem;
+}
+
+.aboutus a{
+    color: teal;
+}
+
+.know {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+
+}
+.aboutcontent{
+    font-size: 1rem;
+
+}
+
+h5{
+    font-size: 2rem;
+    font-weight: 500;
+    color: teal;
+}
+p{
+    margin-bottom: 2rem;
+}
+.new{
+    font-size: 1.2rem;
+}
