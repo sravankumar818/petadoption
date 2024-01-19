@@ -1,0 +1,44 @@
+.dashboardpage{
+    text-align: center;
+    background: url(dashboard2.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80%;
+}
+.dashboardpage h3{
+    font-size: 2.5rem;
+}
+.dashboardpage p{
+    font-size: 1rem;
+}
+.dashboardpage a{
+    color: teal;
+}
+h4{
+    color: teal;
+}
+.dashintro{
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    color: teal;
+
+}
+
+.dashboardintro{
+    font-size: 1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+h4{
+    font-size: 2.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+
+}
+p{
+    font-size: 1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}

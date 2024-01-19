@@ -1,0 +1,118 @@
+.heading-link{
+    text-align: center;
+    background: url(service.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.heading-link h3{
+    font-size: 2.5rem;
+}
+.heading-link p{
+    font-size: 1rem;
+}
+.heading-link a{
+    color: teal;
+}
+
+.service{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    background-size: cover;
+}
+
+
+.service .servive-image img{
+    width: 100%;
+}
+
+.content{
+    flex: 1 1 40rem;
+}
+
+.ok{
+    width: 100%;
+    height: 75vh;
+    background: url(servicemain.jpg) no-repeat;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    border-radius: 20px;
+}
+.service-title{
+    position: relative;
+    font-size: 40px;
+    top: 1.5rem;
+}
+
+.service-para{
+    position: relative;
+    padding-left: 250px;
+    margin: 6.5rem;
+    font-size: 1.1rem;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    left: 4rem;
+}
+
+.icons-container .icon1 img{
+    position: relative;
+    padding: 1px;
+    width: 50%;
+    left: 38rem;
+    margin-top: 5rem;
+}
+
+.icons-container .icon2 img{
+    position: relative;
+    padding: 1px;
+    width: 50%;
+    left: -7rem;
+}
+
+.icons-container .iconn3 img{
+    position: relative;
+    padding: 1px;
+    width: 35%;
+    height: 20%;
+    left: 45rem;
+}
+
+.icons-container .subject1{
+    position: absolute;
+    top: 140%;
+    left: 10%;
+    padding-right: 40%;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+.icons-container .subject1 #oo{
+    font-size: 2rem;
+    color: teal;
+}
+.icons-container .subject3 #oo{
+    font-size: 2rem;
+    color: teal;
+}
+
+
+.icons-container .subject2{
+    position: absolute;
+    top: 210%;
+    left: -20%;
+    padding-left: 62%;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.icons-container .subject3{
+    position: absolute;
+    top: 270%;
+    left: 10%;
+    padding-right: 40%;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
